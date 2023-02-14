@@ -5,9 +5,16 @@
   PyQt5 app with the possibility of registration and log in by <a href="https://github.com/codelao">CodeLao</a>
 </h3>
 
+<h4 align="center">
+  <a href=#requirements>Requirements</a> •
+  <a href=#usage>Usage</a>
+ </h4>
+
 
 <p align="center">
   <img src="./example_pic.jpg" width="50%">
+  <img src="./registration_pic.jpg" width="50%">
+  <img src="./profile_pic.jpg" width="50%">
 </p>
 
 
