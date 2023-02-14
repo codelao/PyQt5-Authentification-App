@@ -27,5 +27,5 @@
 
 ### Usage
 
-- App starts from [first_win.py]() file. Other files will start automatically
+- App launches from [first_win.py]() file. Other files will launch automatically
 - This is an old project that I decided to finish :>
