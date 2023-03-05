@@ -5,13 +5,14 @@
   PyQt5 app with the possibility of registration and logging in by <a href="https://github.com/codelao">CodeLao</a>
 </h3>
 
-<h4 align="center">
+<h2 align="center">
   <a href=#requirements>Requirements</a> •
   <a href=#usage>Usage</a>
- </h4>
+ </h2>
 
 
-<p align="center">
+### Screenshots
+<p>
   <img src="./example_pic.jpg" width="50%">
   <img src="./registration_pic.jpg" width="50%">
   <img src="./profile_pic.jpg" width="50%">
@@ -21,11 +22,12 @@
 ### Requirements
 
 <p>
-  <img src="https://img.shields.io/badge/PyQt5-blue">
+  <img src="https://img.shields.io/badge/Python-3-blue">
+  <img src="https://img.shields.io/badge/PyQt5-red">
 </p>
 
 
 ### Usage
 
-- App launches from [first_win.py]() file. Other files will launch automatically
+- App launches from [first_win.py]() file
 - This is an old project that I decided to finish :>
