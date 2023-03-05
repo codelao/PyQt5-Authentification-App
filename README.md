@@ -29,5 +29,5 @@
 
 ### Usage
 
-- App launches from [first_win.py]() file
+- App launches from [first_window.py](https://github.com/codelao/PyQt5-Authentification-App/blob/main/code/first_window.py) file
 - This is an old project that I decided to finish :>
