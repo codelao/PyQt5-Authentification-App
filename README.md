@@ -1,8 +1,8 @@
-<h1 align="center">PyQt5 Account Create App</h1>
+<h1 align="center">PyQt5 Authentification App</h1>
 
 
 <h3 align="center">
-  PyQt5 app with the possibility of registration and log in by <a href="https://github.com/codelao">CodeLao</a>
+  PyQt5 app with the possibility of registration and logging in by <a href="https://github.com/codelao">CodeLao</a>
 </h3>
 
 <h4 align="center">
